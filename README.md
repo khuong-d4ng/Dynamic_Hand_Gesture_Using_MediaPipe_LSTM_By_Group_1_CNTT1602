@@ -73,7 +73,7 @@ This Jupyter notebook loads the recorded gesture landmarks, preprocesses the dat
 
 You can install the dependencies using the following command:
 ```sh
-pip install opencv-python mediapipe tensorflow numpy jupyter
+pip install -r requirements.txt
 ```
 
 ## License
