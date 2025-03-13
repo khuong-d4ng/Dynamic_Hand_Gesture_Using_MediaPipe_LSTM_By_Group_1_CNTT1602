@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="docs/images/logo.png" alt="DaiNam University Logo" width="200"/>
+  <img src="docs/images/AIoTLab_logo.png" alt="AIoTLab Logo" width="170"/>
+</p>
+
 # Dynamic Hand Gesture Recognition Using MediaPipe and LSTM
 
 This project implements dynamic hand gesture recognition using MediaPipe for hand landmark detection and an LSTM neural network for gesture classification. The repository contains the following files:
