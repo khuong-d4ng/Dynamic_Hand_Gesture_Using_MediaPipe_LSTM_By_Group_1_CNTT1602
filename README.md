@@ -8,7 +8,7 @@
 ## Architecture
 
 <p align="center">
-  <img src="docs/images/SoDoHeThong.jpg" alt="System Architecture" width="800"/>
+  <img src="docs/images/SoDoHeThong.png" alt="System Architecture" width="800"/>
 </p>
 
 This project implements dynamic hand gesture recognition using MediaPipe for hand landmark detection and an LSTM neural network for gesture classification. The repository contains the following files:
