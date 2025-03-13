@@ -5,6 +5,12 @@
 
 # Dynamic Hand Gesture Recognition Using MediaPipe and LSTM
 
+## Poster
+
+<p align="center">
+  <img src="docs/images/poster_ai_iot.jpg" alt="System Architecture" width="800"/>
+</p>
+
 ## Architecture
 
 <p align="center">
