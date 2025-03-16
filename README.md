@@ -11,7 +11,7 @@
   <img src="docs/images/poster_ai_iot.jpg" alt="System Architecture" width="800"/>
 </p>
 
-## Architecture
+## Architecture  
 
 <p align="center">
   <img src="docs/images/SoDoHeThong.png" alt="System Architecture" width="800"/>
@@ -100,6 +100,10 @@ pip install -r requirements.txt
 This project uses the following libraries:
 - [MediaPipe](https://mediapipe.dev/)
 - [OpenCV](https://opencv.org/)
-- [TensorFlow](https://www.tensorflow.org/)
+- [TensorFlow](https://www.tensorflow.org/) <br>
+
+This initiative was directed by those exceptional individuals:
+- ThS. Le Trung Hieu
+- ThS. Tran Thai Khanh
 
 For any questions or issues, please open an issue in the repository.
